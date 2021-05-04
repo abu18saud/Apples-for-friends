@@ -1,0 +1,13 @@
+C:\Users\abu18\source\repos\abu18saud\Apples-for-friends\Apples for friends\bin\Debug\netcoreapp3.1\Apples for friends.exe
+C:\Users\abu18\source\repos\abu18saud\Apples-for-friends\Apples for friends\bin\Debug\netcoreapp3.1\Apples for friends.deps.json
+C:\Users\abu18\source\repos\abu18saud\Apples-for-friends\Apples for friends\bin\Debug\netcoreapp3.1\Apples for friends.runtimeconfig.json
+C:\Users\abu18\source\repos\abu18saud\Apples-for-friends\Apples for friends\bin\Debug\netcoreapp3.1\Apples for friends.runtimeconfig.dev.json
+C:\Users\abu18\source\repos\abu18saud\Apples-for-friends\Apples for friends\bin\Debug\netcoreapp3.1\Apples for friends.dll
+C:\Users\abu18\source\repos\abu18saud\Apples-for-friends\Apples for friends\bin\Debug\netcoreapp3.1\Apples for friends.pdb
+C:\Users\abu18\source\repos\abu18saud\Apples-for-friends\Apples for friends\obj\Debug\netcoreapp3.1\Apples for friends.csprojAssemblyReference.cache
+C:\Users\abu18\source\repos\abu18saud\Apples-for-friends\Apples for friends\obj\Debug\netcoreapp3.1\Apples for friends.AssemblyInfoInputs.cache
+C:\Users\abu18\source\repos\abu18saud\Apples-for-friends\Apples for friends\obj\Debug\netcoreapp3.1\Apples for friends.AssemblyInfo.cs
+C:\Users\abu18\source\repos\abu18saud\Apples-for-friends\Apples for friends\obj\Debug\netcoreapp3.1\Apples for friends.csproj.CoreCompileInputs.cache
+C:\Users\abu18\source\repos\abu18saud\Apples-for-friends\Apples for friends\obj\Debug\netcoreapp3.1\Apples for friends.dll
+C:\Users\abu18\source\repos\abu18saud\Apples-for-friends\Apples for friends\obj\Debug\netcoreapp3.1\Apples for friends.pdb
+C:\Users\abu18\source\repos\abu18saud\Apples-for-friends\Apples for friends\obj\Debug\netcoreapp3.1\Apples for friends.genruntimeconfig.cache
